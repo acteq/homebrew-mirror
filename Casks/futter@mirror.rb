@@ -1,4 +1,4 @@
-cask "flutter@acteq" do
+cask "flutter@mirror" do
   arch arm: "_arm64"
 
   version "3.19.5"
